@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Holiday component test renders correctly 1`] = `
+<section
+  className="holiday-container d-flex"
+>
+  <div
+    className="holiday-title"
+  >
+    <p
+      className=""
+    >
+      Total Holidays
+    </p>
+    <p>
+      0
+    </p>
+  </div>
+  <ul
+    className="holiday-list d-flex"
+  />
+</section>
+`;

@@ -1,0 +1,36 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  background-color: hsla(187, 59%, 28%, 0.319);
+  width: 60%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+p {
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+input {
+  background-color: transparent;
+  height: 40px;
+  width: 100%;
+  color: white;
+  font-size: 18px;
+  border-radius: 10px;
+  padding-left: 10px;
+}
+
+::placeholder {
+  font-size: 14px;
+}

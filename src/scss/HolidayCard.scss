@@ -1,0 +1,60 @@
+li {
+  list-style-type: none;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.holiday-container {
+  flex-direction: column;
+  margin: 0;
+}
+
+.holiday-list {
+  flex-direction: column;
+  padding-left: 0;
+  justify-content: flex-start;
+  margin: auto;
+  width: fit-content;
+  min-width: 50%;
+}
+
+.holiday-list li {
+  border-radius: 5px;
+  background-color: hsla(171, 97%, 28%, 0.2);
+}
+
+.holiday-list li:nth-child(2n) {
+  background-color: hsla(171, 97%, 28%, 0.6);
+}
+
+.country-details {
+  display: flex;
+  justify-content: space-between;
+}
+
+.holiday-title {
+  text-align: center;
+  background-color: hsla(171, 97%, 28%, 1);
+  width: fit-content;
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 50%;
+  box-shadow: 2px 4px 7px gray;
+}
+
+.holiday-title p {
+  font-weight: bold;
+  color: rgb(20, 45, 64);
+}
+
+.holiday-name {
+  font-weight: bold;
+  font-size: 20px;
+  color: rgb(20, 45, 64);
+}
+
+.holiday-date {
+  color: brown;
+}

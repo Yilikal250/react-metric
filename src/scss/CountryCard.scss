@@ -1,0 +1,39 @@
+.country-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 0;
+}
+
+.country-list li {
+  height: 100%;
+  margin: 10px;
+  background-color: hsla(171, 97%, 28%, 0.2);
+  border-radius: 10%;
+  box-shadow: 2px 2px 2px gray;
+}
+
+.city-index {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+.fa-icons-right,
+.country-code {
+  color: rgb(20, 45, 64);
+  margin-top: 10px;
+}
+
+.country-name {
+  color: rgb(20, 45, 64);
+  margin-top: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.country-flag {
+  margin: 10px;
+  height: 100px;
+  width: 150px;
+}
