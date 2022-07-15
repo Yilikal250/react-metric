@@ -1,7 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { FaAngleLeft, FaMicrophone, FaCog } from 'react-icons/fa';
-import '../scss/Header.scss';
+import '../scss/HeaderHoliday.scss';
 
 const Header = () => (
   <header className="d-flex">

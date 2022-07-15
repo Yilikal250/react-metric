@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../scss/GlobalHoliday.scss';
+import '../../scss/GlobalHolidayAPI.scss';
 
 const GlobalHoliday = () => (
   <div className="project-title">

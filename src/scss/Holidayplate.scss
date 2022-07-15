@@ -22,11 +22,11 @@ li {
 
 .holiday-list li {
   border-radius: 5px;
-  background-color: hsla(171, 97%, 28%, 0.2);
+  background-color: white;
 }
 
 .holiday-list li:nth-child(2n) {
-  background-color: hsla(171, 97%, 28%, 0.6);
+  background-color: yellow;
 }
 
 .country-details {
@@ -40,7 +40,7 @@ li {
   width: fit-content;
   margin: 10px auto;
   padding: 10px;
-  border-radius: 50%;
+  border-radius: 10%;
   box-shadow: 2px 4px 7px gray;
 }
 

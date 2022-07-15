@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../scss/HolidayCard.scss';
+import '../../scss/Holidayplate.scss';
 import { useSelector } from 'react-redux';
 
 const Holidays = () => {

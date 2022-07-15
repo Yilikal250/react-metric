@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { NavLink } from 'react-router-dom';
-import '../../scss/CountryCard.scss';
+import '../../scss/CountryPlate.scss';
 import { FaRegArrowAltCircleRight } from 'react-icons/fa';
 import { useDispatch, useSelector } from 'react-redux';
 import { FetchCountry } from '../../redux/country/country';

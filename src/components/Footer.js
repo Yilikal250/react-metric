@@ -1,5 +1,5 @@
 import React from 'react';
-import '../scss/Footer.scss';
+import '../scss/FooterHoliday.scss';
 import { AiFillGithub } from 'react-icons/ai';
 
 function Footer() {
