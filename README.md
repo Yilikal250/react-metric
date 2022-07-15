@@ -31,7 +31,7 @@ Clone the repository using the GitHub [link](git@github.com:Yilikal250/react-met
 In the terminal, go to your file directory and run this command.
 
 ```
-$ git clone 
+$ [git clone] (git@github.com:Yilikal250/react-metric.git)
 ```
 
 ### Usage
