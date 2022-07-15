@@ -13,7 +13,6 @@ A Global Holiday web app that provides holiday data for 251 countries around the
 ## Live Demo 🔗
 
 
-
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
@@ -25,7 +24,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Setup
 
-Clone the repository using the GitHub [link]()
+Clone the repository using the GitHub [link](git@github.com:Yilikal250/react-metric.git)
 
 ### Install
 
@@ -56,10 +55,10 @@ Please find the link in the Live Demo section.
 
 👤 **Yilikal Teshome** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
 
-  - [GitHub]()
-  - [Twitter]()
-  - [LinkedIn]()
-  - [Gmail]()
+  - [GitHub](https://github.com/Yilikal250)
+  - [Twitter](https://twitter.com/TeshomeYilikal)
+  - [LinkedIn](https://www.linkedin.com/in/yilikal-teshome/)
+  - [Gmail](teshomeyilikal250@gmail.com)
 
 ## 🤝 Contributing
 
