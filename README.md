@@ -11,7 +11,7 @@ A Global Holiday web app that provides holiday data for 251 countries around the
 
 
 ## Live Demo 🔗
-
+[link](https://gleaming-faloodeh-71f157.netlify.app)
 
 ## Getting Started
 
