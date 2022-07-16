@@ -26,6 +26,10 @@ To get a local copy up and running follow these simple steps.
 
 Clone the repository using the GitHub [link](git@github.com:Yilikal250/react-metric.git)
 
+### Video description
+
+([link](https://www.loom.com/share/61ba57243afb46f0a75d643b870277fa)
+
 ### Install
 
 In the terminal, go to your file directory and run this command.
