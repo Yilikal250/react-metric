@@ -28,7 +28,7 @@ Clone the repository using the GitHub [link](git@github.com:Yilikal250/react-met
 
 ### Video description
 
-([link](https://www.loom.com/share/61ba57243afb46f0a75d643b870277fa)
+[link](https://www.loom.com/share/61ba57243afb46f0a75d643b870277fa)
 
 ### Install
 
